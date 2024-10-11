@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante de Ingeniería de Software en la Unidad Multidisciplinaria de Tizimín (UMT) de la UADY, con experiencia en Python, Tkinter y software de R.
+Soy estudiante de Ingeniería de Software en la Unidad Multidisciplinaria de Tizimín (UMT) de la UADY, con experiencia en Python, Tkinter, C/C++ y R.
 
 
 
